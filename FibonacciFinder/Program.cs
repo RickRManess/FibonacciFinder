@@ -14,7 +14,6 @@ namespace FibonacciFinder
                 int places = Int32.Parse(Console.ReadLine());
                 Fibonacci(places);
             }
-
         }
         /// <summary>
         /// Function to determine Fibbonaci sequence
